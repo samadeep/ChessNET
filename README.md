@@ -1,4 +1,4 @@
-# ChessNET : H
+# ChessNET
 
 Inspired and adapted from: https://github.com/victorsimrbt/chess_4096
 
